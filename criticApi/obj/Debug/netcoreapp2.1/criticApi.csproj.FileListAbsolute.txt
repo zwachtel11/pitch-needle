@@ -1,0 +1,14 @@
+/Users/zachwachtel/Programs/music/criticApi/bin/Debug/netcoreapp2.1/criticApi.deps.json
+/Users/zachwachtel/Programs/music/criticApi/bin/Debug/netcoreapp2.1/criticApi.runtimeconfig.json
+/Users/zachwachtel/Programs/music/criticApi/bin/Debug/netcoreapp2.1/criticApi.runtimeconfig.dev.json
+/Users/zachwachtel/Programs/music/criticApi/bin/Debug/netcoreapp2.1/criticApi.dll
+/Users/zachwachtel/Programs/music/criticApi/bin/Debug/netcoreapp2.1/criticApi.pdb
+/Users/zachwachtel/Programs/music/criticApi/obj/Debug/netcoreapp2.1/criticApi.csprojAssemblyReference.cache
+/Users/zachwachtel/Programs/music/criticApi/obj/Debug/netcoreapp2.1/criticApi.csproj.CoreCompileInputs.cache
+/Users/zachwachtel/Programs/music/criticApi/obj/Debug/netcoreapp2.1/criticApi.RazorAssemblyInfo.cache
+/Users/zachwachtel/Programs/music/criticApi/obj/Debug/netcoreapp2.1/criticApi.RazorAssemblyInfo.cs
+/Users/zachwachtel/Programs/music/criticApi/obj/Debug/netcoreapp2.1/criticApi.AssemblyInfoInputs.cache
+/Users/zachwachtel/Programs/music/criticApi/obj/Debug/netcoreapp2.1/criticApi.AssemblyInfo.cs
+/Users/zachwachtel/Programs/music/criticApi/obj/Debug/netcoreapp2.1/criticApi.RazorTargetAssemblyInfo.cache
+/Users/zachwachtel/Programs/music/criticApi/obj/Debug/netcoreapp2.1/criticApi.dll
+/Users/zachwachtel/Programs/music/criticApi/obj/Debug/netcoreapp2.1/criticApi.pdb
